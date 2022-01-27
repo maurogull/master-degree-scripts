@@ -18,8 +18,8 @@ In brief, the findings were:
 
 This is a companion for the main document available at http://sedici.unlp.edu.ar/handle/10915/93237
 
-"Predicción de defectos en un lenguaje dinámicamente tipado usando métricas estáticas y de cambio"
-(_Defect prediction in a dynamic-type language using static and change metrics_)
+"Predicción de defectos en un lenguaje dinámicamente tipado usando métricas estáticas y de cambio"  
+(_Defect prediction in a dynamic-type language using static and change metrics_)  
 Universidad Nacional de La Plata, 2020
 
 
