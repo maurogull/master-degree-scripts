@@ -5,9 +5,9 @@ I worked with MediaWiki's source code, which is written in PHP, so using PHP for
 
 Our work can be summarized as follows:
 * Inspect 2871 Git commits (~114 KLOC involved) :(
-* Organize commits in a relational database
+* Organize commits into a relational database
 * Build tools to calculate metrics from database and source code :(
-* Logistic Regression: predict defective classes with the class' metrics
+* Logistic Regression: predict defective classes from the class' metrics
 
 In brief, the findings were:
 * **Quantity and size of changes** made to a class' code predicts its future defects
